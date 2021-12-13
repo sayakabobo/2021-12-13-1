@@ -1,0 +1,11 @@
+$font_color: #444444;
+$sub_font_color: #888888;
+$bg_color: #f3f3f3;
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
